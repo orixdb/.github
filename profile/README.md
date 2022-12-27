@@ -1,2 +1,4 @@
 # OrixDB
-## An efficient multi-model NoSQL database, written in Rust for the modern web.
+## A simple multi-model NoSQL database, queried with GraphQL.
+
+Written in Nim and Nodejs for the modern web.
